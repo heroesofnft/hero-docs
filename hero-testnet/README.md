@@ -165,7 +165,7 @@ vim ~/.avalanchego/configs/node.json
   "http-host": "127.0.0.1",
   "http-port": 9650,
   "network-id": "fuji",
-  "whitelisted-subnets": "2MCNtqDyTQp7nAnj2iTREG7jdeJa3QRYWjvGvQh5uc9EqDmLTH"
+  "whitelisted-subnets": "21HEmZx5zVHYcP3JzbmRGVsYdm3HjrM2BMEPoCpoS3fHmZshq9"
 }
 
 # Vm alias config
