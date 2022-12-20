@@ -14,10 +14,6 @@ Co-founder/Game Developer; has a bachelor's and a master's degree in Computer Sc
 
 Creative Director/Story Developer; Bachelor’s degree in English Language and Literature, Masters degree in Journalism and Media Communications. Speaks four languages and worked as a Music Journalist. Twitter: @suwithlemon
 
-Art Director / Illustrator and has over 11 years of experience at game and animation production industry.&#x20;
-
-Concept Artist/ Illustrator has over 8 years of experience designing characters and environments.
-
 Marketing Manager; Bachelor's Degree in Political Science and Public Administration, worked in different NGOs and international organizations for 4 years. Twitter: @CaesarJulius0
 
 
