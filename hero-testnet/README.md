@@ -6,6 +6,11 @@ description: Hero Testnet details and how to connect
 
 **Domain:** [testnet.heroesofnft.com](https://testnet.heroesofnft.com/ext/bc/p91WZe6xXivSgCBZwWwJmAfyxM92r819G7sqqRrYYRPzy49bP/rpc)
 
+## Version
+
+**Avalanchego:** v1.9.4
+**Subnet EVM:** v0.4.6
+
 ### Subnet Details
 
 **VM ID:** nyfSdZmrxTXbJrxdUoqLegVGQzWF6RVL4jYn7Yr6NsMzpdrFA
