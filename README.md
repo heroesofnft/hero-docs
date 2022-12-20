@@ -1,22 +1,14 @@
-# Hero Testnet Installer
-**Domain:** testnet.heroesofnft.com
+# What is Heroes of NFT?
 
-### Subnet Details
-**VM ID:** nzfDQr8VpSZwsJNTqqDPiDGCPc79GLe7QL3qdTbCkPJ8MFevG
-**Subnet ID:** 2MCNtqDyTQp7nAnj2iTREG7jdeJa3QRYWjvGvQh5uc9EqDmLTH
-**Chain ID:** p91WZe6xXivSgCBZwWwJmAfyxM92r819G7sqqRrYYRPzy49bP
+Heroes of Nft is a turn-based collectible trading card game. Players can battle in the arena playing against each other and show off their skills with unique hero cards.&#x20;
 
-### Requirements
-To participate in the Hero Testnet, a current Avalanche fuji node must be installed.
-If you do not know how to install avalanche fuji node, you can install it by examining this document. 
-**Avalanche Node Installer**: https://docs.avax.network/nodes/build/set-up-node-with-installer
+The never-ending possibilities will put competitors to the test of becoming a true strategist. While the in-game items will change the gaming pace drastically, future various game modes will allow players to experience different challenges. Users will confront each other in serious tournaments and the winners will get generously rewarded.
 
-### Install
-**bash hero-testnet-installer.sh \<options>**
+Wallet ownable spell cards, weapons, and cosmetics will bring your heroes extra power and extra customization options. Moreover, these items will be sold on the marketplace to bring more volume to the HON economics. Our novel Play 2 Earn mechanics will allow players to be participants in a real game economy.&#x20;
 
-|  Option |  Value | Default  |
-| ------------ | ------------ | ------------ |
-|  \--version |  (subnet-evm  version number) | default: -latest (If the parameter is left blank, the latest version is automatically installed.)  |
-|  \--vm-id |  subnet vm id | default: nzfDQr8VpSZwsJNTqqDPiDGCPc79GLe7QL3qdTbCkPJ8MFevG (Hero Testnet)  |
+PvP and PvE modes are rewarded separately with mintable HRM tokens while the real prizes are distributed in serious tournaments. HON token holders will designate the game’s future thus they’ll be the real game masters. Having all of these features, Heroes of NFT distinguishes itself from the others.
 
-After the script is run, the subnet-evm version will be installed. After installation, hero-testnet will be defined to your fuji node and the process will be completed successfully.
+![](.gitbook/assets/image.png)
+
+
+
