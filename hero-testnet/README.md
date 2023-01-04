@@ -8,8 +8,7 @@ description: Hero Testnet details and how to connect
 
 ## Version
 
-**Avalanchego:** v1.9.4
-**Subnet EVM:** v0.4.6
+**Avalanchego:** v1.9.4 **Subnet EVM:** v0.4.6
 
 ### Subnet Details
 
@@ -35,11 +34,11 @@ Target Block Rate: 2s (Same as C-Chain)
 * **Validator 0**
   * **ID:** `NodeID-6tWHHU9uVWAf46qTYTsnTnVZJeL65hwgR`
   * **IP:** `173.249.33.39`
-* **Validator 1**&#x20;
+* **Validator 1**
   * **ID:** `NodeID-AGSMAmA7HStwbKCJAYpBzBvDmjyd6BVvd`
   * **IP:** `154.12.249.187`
 * **Validator 2**
-  * **ID:** `NodeID-7iWipVaLBfGSMjY6WNCXiWtY5yKLe1kTx`&#x20;
+  * **ID:** `NodeID-7iWipVaLBfGSMjY6WNCXiWtY5yKLe1kTx`
   * **IP:** `66.94.125.28`
 
 #### Adding to MetaMask
@@ -175,6 +174,64 @@ vim ~/.avalanchego/vms/aliases.json
   "nyfSdZmrxTXbJrxdUoqLegVGQzWF6RVL4jYn7Yr6NsMzpdrFA": ["hero", "herovm", "hvm"]
 }
 
+# Paste the following contents of upgrade.json into
+vim ~/.avalanchego/configs/chains/2KV1ighhTjNpuQq8BVgHeJF3QHdF3KxhY9AqB9M1GfUuBCKjNo/upgrade.json
+
+```
+
+Contents of upgrade.json
+
+```json
+{
+  "precompileUpgrades": [
+    {
+      "feeManagerConfig": {
+        "blockTimestamp": 1671106500,
+        "disable": true
+      }
+    },
+    {
+      "contractNativeMinterConfig": {
+        "blockTimestamp": 1671106500,
+        "disable": true
+      }
+    },
+    {
+      "feeManagerConfig": {
+        "blockTimestamp": 1671112800,
+        "adminAddresses": ["0x0ed6431f48560e943cc8c1edeae3d7f7edde46a7"]
+      }
+    },
+    {
+      "contractNativeMinterConfig": {
+        "blockTimestamp": 1671112800,
+        "adminAddresses": ["0x0ed6431f48560e943cc8c1edeae3d7f7edde46a7"]
+      }
+    },
+    {
+      "contractNativeMinterConfig": {
+        "blockTimestamp": 1671127200,
+        "disable": true
+      }
+    },
+    {
+      "contractNativeMinterConfig": {
+        "blockTimestamp": 1671186630,
+        "adminAddresses": [
+          "0x0ed6431f48560e943cc8c1edeae3d7f7edde46a7",
+          "0x1a3624Ec8355229cC4597c2746C92035cef26241"
+        ]
+      }
+    }
+  ]
+}
+
+```
+
+Finally execute the avalanchego binary !
+
+```bash
 # Execute !
 ./avalanche-node/avalanchego --config-file=~/.avalanchego/configs/node.json
 ```
+
