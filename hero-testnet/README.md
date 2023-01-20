@@ -8,7 +8,7 @@ description: Hero Testnet details and how to connect
 
 ## Version
 
-**Avalanchego:** v1.9.4 **Subnet EVM:** v0.4.6
+**Avalanchego:** v1.9.7 **Subnet EVM:** v0.4.8
 
 ### Subnet Details
 
@@ -154,7 +154,8 @@ tar xfz subnet-evm_x.x.x_<distro>_<chip>.tar.gz
 mv subnet-evm nyfSdZmrxTXbJrxdUoqLegVGQzWF6RVL4jYn7Yr6NsMzpdrFA
 
 # copy plugin to avalanchego/plugins
-cp ./nyfSdZmrxTXbJrxdUoqLegVGQzWF6RVL4jYn7Yr6NsMzpdrFA ~/avalanche-node/plugins/
+mkdir ~/.avalanchego/plugins
+cp ./nyfSdZmrxTXbJrxdUoqLegVGQzWF6RVL4jYn7Yr6NsMzpdrFA ~/.avalanchego/plugins/
 
 # ** Configs **
 # Local node config for whitelisting Hero Subnet & connecting to Fuji
@@ -164,7 +165,7 @@ vim ~/.avalanchego/configs/node.json
   "http-host": "127.0.0.1",
   "http-port": 9650,
   "network-id": "fuji",
-  "whitelisted-subnets": "21HEmZx5zVHYcP3JzbmRGVsYdm3HjrM2BMEPoCpoS3fHmZshq9"
+  "track-subnets": "21HEmZx5zVHYcP3JzbmRGVsYdm3HjrM2BMEPoCpoS3fHmZshq9"
 }
 
 # Vm alias config
