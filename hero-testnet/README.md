@@ -121,10 +121,10 @@ file: `hero-testnet-genesis.json`
 
 ```bash
 # First download go
-# install the version > 1.18.1
-wget https://go.dev/dl/go1.18.8.linux-amd64.tar.gz
+# install the version > 1.20.2
+wget https://go.dev/dl/go1.20.2.linux-amd64.tar.gz
 # install go
-sudo tar -C /usr/local -xzf go1.18.8.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.20.2.linux-amd64.tar.gz
 # add go to $PATH by using avalanche/validators/.profile
 # copy the content to the last line of user .profile file
 echo "export PATH=$PATH:/usr/local/go/bin:/home/admin/go/bin" >>> .profile
