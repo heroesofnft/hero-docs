@@ -8,7 +8,7 @@ description: Hero Testnet details and how to connect
 
 ## Version
 
-**Avalanchego:** v1.9.12 **Subnet EVM:** v0.4.12
+**Avalanchego:** v1.10.2 **Subnet EVM:** v0.5.1
 
 ### Subnet Details
 
