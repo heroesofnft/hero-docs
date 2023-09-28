@@ -88,7 +88,7 @@ Whilst many people thirst for adventure alone, it’s only right that we are rew
 
 **Medium:** ​​[https://blog.heroesofnft.com/](https://blog.heroesofnft.com/)
 
-**Twitter:**[ **** https://twitter.com/heroesofnft?t=m2lOrhG\_gzz72jtl2SIOHw\&s=08](https://twitter.com/heroesofnft?t=m2lOrhG\_gzz72jtl2SIOHw\&s=08)
+**Twitter:**[ https://twitter.com/heroesofnft?t=m2lOrhG\_gzz72jtl2SIOHw\&s=08](https://twitter.com/heroesofnft?t=m2lOrhG\_gzz72jtl2SIOHw\&s=08)
 
 **Docs:** [https://docs.heroesofnft.com/](https://meet.google.com/pfa-uior-jzd)
 

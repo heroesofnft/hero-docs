@@ -1,10 +1,20 @@
+---
+description: >-
+  (This gameplay version is outdated; it was designed for the first version of
+  the game.)
+---
+
 # Gameplay
 
 ## **Create a game:**
 
 * The beta test of the game is in the following link [https://app.heroesofnft.com/play](https://app.heroesofnft.com/play)
 
-![Heroes of Nft Web Application - Play Page](<../.gitbook/assets/1 (1).jpg>)
+<div align="center">
+
+<img src="../.gitbook/assets/1 (1).jpg" alt="Heroes of Nft Web Application - Play Page">
+
+</div>
 
 * Click on the "ENTER HERE" button
 * The game will be loaded shortly. After that, click "INVENTORY" button at left side.

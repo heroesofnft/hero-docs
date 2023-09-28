@@ -126,7 +126,7 @@ Hon aims to create a sustainable game economy with a high-quality gaming experie
 
 HON is a community-oriented project. Hence, we sold tokens to our community in our private sale. Our NFT staking with HON token is going to be useful for only small investors without taking impermanent loss risk. In terms of development, it is really going very well as you can see from our videos.
 
-### **Not all NFTs that are offered in the market are valuable So how will #HON ensure that the NFTs that are manufactured, issued, and traded on its platform are valuable and successful, and what strategies will it use to make them competitive in this fierce market?**  ****&#x20;
+### **Not all NFTs that are offered in the market are valuable So how will #HON ensure that the NFTs that are manufactured, issued, and traded on its platform are valuable and successful, and what strategies will it use to make them competitive in this fierce market?**  &#x20;
 
 We are utilizing our NFTs in our game ecosystem. This is the most important difference between our projects with jpeg NFT projects. Our NFTs are the key to opening the doors to make income.
 
