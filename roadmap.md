@@ -34,7 +34,7 @@ NFT migration link
 HON-Avax Farm page at heroesofnft.com
 {% endembed %}
 
-*   [ ] Marketplace release
+*   [x] Marketplace release
 
 
 *   [ ] Game public beta release
