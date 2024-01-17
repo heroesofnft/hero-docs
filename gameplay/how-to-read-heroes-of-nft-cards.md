@@ -1,8 +1,58 @@
+---
+description: To buy the cards, you can use https://marketplace.heroesofnft.com/
+---
+
 # How To Read Heroes of NFT Cards?
 
 ## Coloring of the cards: <a href="#a5c2" id="a5c2"></a>
 
-Heroes of NFT Cards have some rules that had already been coded on your unique cards. These simple rules are coded in colors and with icons. Heroes of NFT has five different rarity levels. These are Common Cards, Uncommon Cards, Rare Cards, Epic Cards and Legendary Cards. Each card has a different frame and different color scheme as can be seen below.
+Heroes of NFT Cards have some rules already coded on your unique cards. These simple rules are coded in colors and with icons. Heroes of NFT has five different rarity levels. These are Common Cards, Uncommon Cards, Rare Cards, Epic Cards and Legendary Cards. Each card has a different frame and color scheme, as seen below.
+
+![](../.gitbook/assets/Common.png)
+
+Common Card Frame
+
+
+
+![](../.gitbook/assets/Uncommon.png)
+
+Uncommon Card Frame&#x20;
+
+
+
+![](<../.gitbook/assets/Rare (1).png>)
+
+Rare Card Frame
+
+
+
+![](../.gitbook/assets/Epic.png)
+
+Epic Card Frame
+
+
+
+![](../.gitbook/assets/Legendary.png)
+
+Legendary Card Frame
+
+These color schemes show the uniqueness of your card. Common Cards are the most issued cards whereas Epic Cards are less common. Our algorithm works in this way.
+
+## Layout of the cards: <a href="#d901" id="d901"></a>
+
+![](../.gitbook/assets/Layout\_Image.jpg)
+
+Heroes of NFT has a unique game mechanism and our characters will bring you the enjoyment of playing collectible card games. There is one more detail that was not mentioned in this document. Enjoy when you discover this detail!
+
+## &#x20;<a href="#a5c2" id="a5c2"></a>
+
+## &#x20;<a href="#a5c2" id="a5c2"></a>
+
+## <mark style="color:orange;">The below description is for the first version of the cards</mark> <a href="#a5c2" id="a5c2"></a>
+
+## Coloring of the cards: <a href="#a5c2" id="a5c2"></a>
+
+Heroes of NFT Cards have some rules already coded on your unique cards. These simple rules are coded in colors and with icons. Heroes of NFT has five different rarity levels. These are Common Cards, Uncommon Cards, Rare Cards, Epic Cards and Legendary Cards. Each card has a different frame and color scheme, as seen below.
 
 <img src="../.gitbook/assets/image (21).png" alt="" data-size="original">Common Card Frame
 
@@ -14,13 +64,13 @@ Heroes of NFT Cards have some rules that had already been coded on your unique c
 
 ![](<../.gitbook/assets/image (37).png>)Legendary Card Frame
 
-These color schemes are showing the uniqueness of your card. Common Cards are the most issued cards whereas Epic Cards are less common cards. Our algorithm works in this way.
+These color schemes show the uniqueness of your card. Common Cards are the most issued cards whereas Epic Cards are less common. Our algorithm works in this way.
 
 ## Layout of the cards: <a href="#d901" id="d901"></a>
 
 ![](<../.gitbook/assets/image (19).png>)
 
-## Some examples: <a href="#8746" id="8746"></a>
+## Some examples: <a href="#id-8746" id="id-8746"></a>
 
 ![](<../.gitbook/assets/image (32).png>)
 
