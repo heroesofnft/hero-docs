@@ -8,7 +8,7 @@ description: Deployed Contract & Wallet Addresses
 
 * Contract addresses
   * **HeroesToken - HRO (Old NFT Contract):** [0xBD7bd0B4650D324e3eA6f734fAA3FC37d80b7D82](https://snowtrace.io/address/0xBD7bd0B4650D324e3eA6f734fAA3FC37d80b7D82)
-  * Heroes NFT - HRO (New NFT Contract): [0x40f118e9b9e3781DA838e021d5b9f3D070C93D00](https://snowtrace.io/address/0x40f118e9b9e3781DA838e021d5b9f3D070C93D00)&#x20;
+  * **Heroes NFT - HRO (New NFT Contract):** [0x40f118e9b9e3781DA838e021d5b9f3D070C93D00](https://snowtrace.io/address/0x40f118e9b9e3781DA838e021d5b9f3D070C93D00)&#x20;
   * **Hon Token Cchain:** 0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB
   * **Hon Xchain AssetId:** 2qTqfExA4Du47qhnAHVyEuCpzUY9n32jnjUC9h6vvqFhNoijHk
   * **MasterGamer (HERO-HON Farm):** [0x9fA643D80093a3fc7B2bc7BaEd33512d9DC77ABD](https://snowtrace.io/address/0x9fA643D80093a3fc7B2bc7BaEd33512d9DC77ABD)

@@ -1,10 +1,12 @@
 ---
-description: To buy the cards, you can use https://marketplace.heroesofnft.com/
+description: To trade the cards, you can use https://marketplace.heroesofnft.com/
 ---
 
 # How To Read Heroes of NFT Cards?
 
 ## Coloring of the cards: <a href="#a5c2" id="a5c2"></a>
+
+Heroes NFT - HRO (New NFT Contract): [0x40f118e9b9e3781DA838e021d5b9f3D070C93D00](https://snowtrace.io/address/0x40f118e9b9e3781DA838e021d5b9f3D070C93D00)&#x20;
 
 Heroes of NFT Cards have some rules already coded on your unique cards. These simple rules are coded in colors and with icons. Heroes of NFT has five different rarity levels. These are Common Cards, Uncommon Cards, Rare Cards, Epic Cards and Legendary Cards. Each card has a different frame and color scheme, as seen below.
 
@@ -51,6 +53,8 @@ Heroes of NFT has a unique game mechanism and our characters will bring you the 
 ## <mark style="color:orange;">The below description is for the first version of the cards</mark> <a href="#a5c2" id="a5c2"></a>
 
 ## Coloring of the cards: <a href="#a5c2" id="a5c2"></a>
+
+**HeroesToken - HRO (Old NFT Contract):** [0xBD7bd0B4650D324e3eA6f734fAA3FC37d80b7D82](https://snowtrace.io/address/0xBD7bd0B4650D324e3eA6f734fAA3FC37d80b7D82)
 
 Heroes of NFT Cards have some rules already coded on your unique cards. These simple rules are coded in colors and with icons. Heroes of NFT has five different rarity levels. These are Common Cards, Uncommon Cards, Rare Cards, Epic Cards and Legendary Cards. Each card has a different frame and color scheme, as seen below.
 
