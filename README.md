@@ -8,7 +8,7 @@ Wallet-ownable spell cards, weapons, and cosmetics will bring your heroes extra 
 
 PvP and PvE modes are rewarded separately with mintable HRM tokens while the real prizes are distributed in serious tournaments. HON token holders will designate the game’s future thus they’ll be the real game masters. Having all of these features, Heroes of NFT distinguishes itself from the others.
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (5).png>)
 
 
 
