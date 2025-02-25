@@ -1,12 +1,30 @@
 # Community
 
-We are aware that the most important issue in the crypto ecosystem is the community. For this reason, we are dedicated to using every channel possible to communicate well with the community. We have telegram groups and a discord server. Currently, we are actively answering the questions of our potential players.&#x20;
+#### **Community Engagement**
 
--Turkish: [https://t.me/heroesofNFTTurkish](https://t.me/heroesofNFTTurkish)
+At Heroes of NFT  we believe that a thriving community is the backbone of the crypto ecosystem. We are dedicated to maintaining open lines of communication with our players and potential users across various platforms. Whether you have questions, feedback, or just want to join the conversation, we're here for you!
 
--English: [https://t.me/heroesofNFTofficial](https://t.me/heroesofNFTofficial)
+Join us on the following channels for our TCG [Luminoria Tactics](https://luminoriatactics.com)
 
-Our Discord server for all languages: [https://discord.com/invite/ngvATGZ6QE](https://discord.com/invite/ngvATGZ6QE)
+* **Telegram Groups**
+  * Turkish: [Join here](https://t.me/heroesofNFTTurkish)
+  * English: [Join here](https://t.me/heroesofNFTofficial)
+* **Discord Server**\
+  Connect with players from all over the world: [Join our Discord](https://discord.com/invite/ngvATGZ6QE)
+* **TikTok**\
+  Follow us for exciting videos: [@luminoriatactics](https://www.tiktok.com/@luminoriatactics)
+* **Instagram**\
+  Stay updated with our latest posts: [@luminoriatactics](https://www.instagram.com/luminoriatactics/)
+* **X (formerly Twitter)**\
+  Join the conversation on X: [@luminoriatactic](https://x.com/luminoriatactic)
+* **Twitch**\
+  Watch live gameplay: [Luminoria Tactics on Twitch](https://www.twitch.tv/luminoriatactics)
+* **Reddit**\
+  Join our Reddit community: [r/Luminoriatactics](https://www.reddit.com/r/Luminoriatactics/)
+* **YouTube**\
+  Check out our latest videos: [Luminoria Tactics on YouTube](https://www.youtube.com/@LuminoriaTactics)
 
-<table data-header-hidden><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>Tiktok</td><td><a href="https://www.tiktok.com/@luminoriatactics">https://www.tiktok.com/@luminoriatactics</a></td><td></td></tr><tr><td>Instagram</td><td><a href="https://www.instagram.com/luminoriatactics/">https://www.instagram.com/luminoriatactics/</a></td><td></td></tr><tr><td>X</td><td><a href="https://x.com/luminoriatactic">https://x.com/luminoriatactic</a></td><td></td></tr><tr><td>Twitch</td><td><a href="https://www.twitch.tv/luminoriatactics">https://www.twitch.tv/luminoriatactics</a></td><td></td></tr><tr><td>reddit</td><td><a href="https://www.reddit.com/r/Luminoriatactics/">https://www.reddit.com/r/Luminoriatactics/</a></td><td></td></tr><tr><td>youtube</td><td><a href="https://www.youtube.com/@LuminoriaTactics">https://www.youtube.com/@LuminoriaTactics</a></td><td></td></tr></tbody></table>
+We’re excited to engage with all of you on these platforms and make sure you're always in the loop with everything happening in _Luminoria Tactics_!
+
+
 
