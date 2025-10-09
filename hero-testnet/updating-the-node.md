@@ -153,8 +153,8 @@ echo "Unpacking node files..."
 
 tar xvf subnet-evm_*.tar.gz
 rm subnet-evm_*.tar.gz
-cp subnet-evm ~/avalanche-node/plugins/$vm_id
-echo "Node files unpacked into $HOME/avalanche-node/plugins/$vm_id"
+cp subnet-evm ~/.avalanchego/plugins/$vm_id
+echo "Node files unpacked into $HOME/.avalanchego/plugins/$vm_id"
 echo
 if [ "$foundAvalancheGo" = "true" ]; then
   echo "Node upgraded, starting service..."

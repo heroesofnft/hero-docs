@@ -6,6 +6,10 @@ description: Hero Testnet details and how to connect
 
 **Domain:** [testnet.heroesofnft.com](https://testnet.heroesofnft.com/ext/bc/p91WZe6xXivSgCBZwWwJmAfyxM92r819G7sqqRrYYRPzy49bP/rpc)
 
+## Version
+
+**Avalanchego:** v1.10.8 **Subnet EVM:** v0.5.3
+
 ### Subnet Details
 
 **VM ID:** nyfSdZmrxTXbJrxdUoqLegVGQzWF6RVL4jYn7Yr6NsMzpdrFA
@@ -30,11 +34,11 @@ Target Block Rate: 2s (Same as C-Chain)
 * **Validator 0**
   * **ID:** `NodeID-6tWHHU9uVWAf46qTYTsnTnVZJeL65hwgR`
   * **IP:** `173.249.33.39`
-* **Validator 1**&#x20;
+* **Validator 1**
   * **ID:** `NodeID-AGSMAmA7HStwbKCJAYpBzBvDmjyd6BVvd`
   * **IP:** `154.12.249.187`
 * **Validator 2**
-  * **ID:** `NodeID-7iWipVaLBfGSMjY6WNCXiWtY5yKLe1kTx`&#x20;
+  * **ID:** `NodeID-7iWipVaLBfGSMjY6WNCXiWtY5yKLe1kTx`
   * **IP:** `66.94.125.28`
 
 #### Adding to MetaMask
@@ -117,10 +121,10 @@ file: `hero-testnet-genesis.json`
 
 ```bash
 # First download go
-# install the version > 1.18.1
-wget https://go.dev/dl/go1.18.8.linux-amd64.tar.gz
+# install the version > 1.20.2
+wget https://go.dev/dl/go1.20.2.linux-amd64.tar.gz
 # install go
-sudo tar -C /usr/local -xzf go1.18.8.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.20.2.linux-amd64.tar.gz
 # add go to $PATH by using avalanche/validators/.profile
 # copy the content to the last line of user .profile file
 echo "export PATH=$PATH:/usr/local/go/bin:/home/admin/go/bin" >>> .profile
@@ -150,7 +154,8 @@ tar xfz subnet-evm_x.x.x_<distro>_<chip>.tar.gz
 mv subnet-evm nyfSdZmrxTXbJrxdUoqLegVGQzWF6RVL4jYn7Yr6NsMzpdrFA
 
 # copy plugin to avalanchego/plugins
-cp ./nyfSdZmrxTXbJrxdUoqLegVGQzWF6RVL4jYn7Yr6NsMzpdrFA ~/avalanche-node/plugins/
+mkdir ~/.avalanchego/plugins
+cp ./nyfSdZmrxTXbJrxdUoqLegVGQzWF6RVL4jYn7Yr6NsMzpdrFA ~/.avalanchego/plugins/
 
 # ** Configs **
 # Local node config for whitelisting Hero Subnet & connecting to Fuji
@@ -160,7 +165,7 @@ vim ~/.avalanchego/configs/node.json
   "http-host": "127.0.0.1",
   "http-port": 9650,
   "network-id": "fuji",
-  "whitelisted-subnets": "2MCNtqDyTQp7nAnj2iTREG7jdeJa3QRYWjvGvQh5uc9EqDmLTH"
+  "track-subnets": "21HEmZx5zVHYcP3JzbmRGVsYdm3HjrM2BMEPoCpoS3fHmZshq9"
 }
 
 # Vm alias config
@@ -170,6 +175,64 @@ vim ~/.avalanchego/vms/aliases.json
   "nyfSdZmrxTXbJrxdUoqLegVGQzWF6RVL4jYn7Yr6NsMzpdrFA": ["hero", "herovm", "hvm"]
 }
 
+# Paste the following contents of upgrade.json into
+vim ~/.avalanchego/configs/chains/2KV1ighhTjNpuQq8BVgHeJF3QHdF3KxhY9AqB9M1GfUuBCKjNo/upgrade.json
+
+```
+
+Contents of upgrade.json
+
+```json
+{
+  "precompileUpgrades": [
+    {
+      "feeManagerConfig": {
+        "blockTimestamp": 1671106500,
+        "disable": true
+      }
+    },
+    {
+      "contractNativeMinterConfig": {
+        "blockTimestamp": 1671106500,
+        "disable": true
+      }
+    },
+    {
+      "feeManagerConfig": {
+        "blockTimestamp": 1671112800,
+        "adminAddresses": ["0x0ed6431f48560e943cc8c1edeae3d7f7edde46a7"]
+      }
+    },
+    {
+      "contractNativeMinterConfig": {
+        "blockTimestamp": 1671112800,
+        "adminAddresses": ["0x0ed6431f48560e943cc8c1edeae3d7f7edde46a7"]
+      }
+    },
+    {
+      "contractNativeMinterConfig": {
+        "blockTimestamp": 1671127200,
+        "disable": true
+      }
+    },
+    {
+      "contractNativeMinterConfig": {
+        "blockTimestamp": 1671186630,
+        "adminAddresses": [
+          "0x0ed6431f48560e943cc8c1edeae3d7f7edde46a7",
+          "0x1a3624Ec8355229cC4597c2746C92035cef26241"
+        ]
+      }
+    }
+  ]
+}
+
+```
+
+Finally execute the avalanchego binary !
+
+```bash
 # Execute !
 ./avalanche-node/avalanchego --config-file=~/.avalanchego/configs/node.json
 ```
+

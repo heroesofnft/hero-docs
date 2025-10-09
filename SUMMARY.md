@@ -1,8 +1,8 @@
 # Table of contents
 
 * [What is Heroes of NFT?](README.md)
-* [Gameplay](gameplay/README.md)
-  * [How To Read Heroes of NFT Cards?](gameplay/how-to-read-heroes-of-nft-cards.md)
+* [Gameplay](gameplay.md)
+* [How To Read Heroes of NFT Cards?](how-to-read-heroes-of-nft-cards.md)
 * [Economy](economy/README.md)
   * [$Hon Tokenomics](economy/usdhon-tokenomics.md)
 * [Infrastructure](infrastructure/README.md)
